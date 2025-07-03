@@ -42,3 +42,22 @@
     margin-top: 2rem;
     border-top: 3px solid #f29ca3;
   }
+  .container{
+  text-align: center;
+}
+
+.corpo {
+  font-size: 2rem;
+  color: #661827;
+}
+
+.botao {
+  background-color: #ff9daf;
+  color: #331f23;
+  padding: 10px 20px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+  display: inline-block;
+  margin-top: 40px;
+}
